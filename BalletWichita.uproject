@@ -170,6 +170,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "SoundUtilities",
+			"Enabled": true
 		}
 	]
 }
