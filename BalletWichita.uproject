@@ -155,10 +155,6 @@
 			]
 		},
 		{
-			"Name": "RemoteControlProtocolMIDI",
-			"Enabled": true
-		},
-		{
 			"Name": "NiagaraFluids",
 			"Enabled": true
 		},
@@ -173,6 +169,14 @@
 		},
 		{
 			"Name": "SoundUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "MIDIDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "RemoteControlProtocolMIDI",
 			"Enabled": true
 		}
 	]
