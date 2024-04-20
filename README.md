@@ -2,14 +2,14 @@
 An Art Project made in Unreal Engine.
 
 ## Credit to 
-John Harrison
-Luke Samuelson
-Brian Foster
-Cj Marsh
-JJ
-Sophia Ramirez
-Ballet Wichita
-and more
+- John Harrison
+- Luke Samuelson
+- Brian Foster
+- Cj Marsh
+- JJ
+- Sophia Ramirez
+- Ballet Wichita
+- and more
 
 
 
